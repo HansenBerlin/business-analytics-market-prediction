@@ -22,3 +22,4 @@ ggfs. erweiter: display/smartphonereparatur, technikmarkt, restaurant, lebensmit
 - [Doku Gebäudetypen](https://wiki.openstreetmap.org/wiki/DE:Key:building)
 - [Doku für Tag Kindergarten](https://wiki.openstreetmap.org/wiki/DE:Tag:amenity=kindergarten)
 - [Gebäudeflächen und -nutzung](https://opendata-esri-de.opendata.arcgis.com/datasets/esri-de-content::geb%C3%A4ude-berlin/about)
+- [Einwohner je PLZ (csv)](https://github.com/HansenBerlin/business-analytics-market-prediction/blob/main/datasetexamples/einwohner_nach_plz.csv)
