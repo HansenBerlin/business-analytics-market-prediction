@@ -20,6 +20,7 @@ ggfs. erweiter: display/smartphonereparatur, technikmarkt, restaurant, lebensmit
 ## Links
 ### OSM
 - [Doku allgemein zu Overpass](https://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_QL) (API für Abrufe, REST API ist nur für commits gedacht)
+- [Beispielabfragen](https://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_API_by_Example)
 - [Doku Gebäudetypen](https://wiki.openstreetmap.org/wiki/DE:Key:building)
 - [Doku für Tag Kindergarten](https://wiki.openstreetmap.org/wiki/DE:Tag:amenity=kindergarten)
 - [Gebäudeflächen und -nutzung](https://opendata-esri-de.opendata.arcgis.com/datasets/esri-de-content::geb%C3%A4ude-berlin/about)
