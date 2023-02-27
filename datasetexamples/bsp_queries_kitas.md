@@ -1,0 +1,9 @@
+```
+[out:json];
+(
+  node["amenity"="kindergarten"](around:50000,{{geocodeCoords:Berlin}});
+);
+out;
+>;
+out;
+```
