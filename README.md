@@ -16,3 +16,8 @@ ggfs. erweiter: display/smartphonereparatur, technikmarkt, restaurant, lebensmit
 - OSM: standorte, entfernungen, bevölkerungsdichte, öffis -> Steini, Hannes
 - Stat. Ämter / Open Gov Data: Demografische Faktoren (Alter, Geschlecht, Einkommen, Kinder) -> maschinenlesbar, Inhalt (evtl + zu oben) -> Corentin, Nico
 - freie Standorte / Immobilien, Eigentumsfaktor, Arbeitsmarkt, Google (einzelne Abfrage spezifisch pro Business (Google Places)) -> Robert, Danny  
+
+## Links
+### OSM
+- [Doku Gebäudetypen](https://wiki.openstreetmap.org/wiki/DE:Key:building)
+- [Doku für Tag Kindergarten](https://wiki.openstreetmap.org/wiki/DE:Tag:amenity=kindergarten)
