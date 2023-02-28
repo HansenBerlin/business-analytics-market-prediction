@@ -18,6 +18,21 @@ ggfs. erweiter: display/smartphonereparatur, technikmarkt, restaurant, lebensmit
 - freie Standorte / Immobilien, Eigentumsfaktor, Arbeitsmarkt, Google (einzelne Abfrage spezifisch pro Business (Google Places)) -> Robert, Danny  
 
 ## Links
+###Altersheim
+https://www.statistik-berlin-brandenburg.de/pflege
+
+nicht Berlin:
+https://www.govdata.de/web/guest/suchen/-/details/betreutes-wohnen-fur-altere-menschen2f51d
+https://www.govdata.de/web/guest/suchen/-/details/wohnen-fur-altere-menschen-in-einrichtungencec11
+
+
+###Kitas
+https://www.govdata.de/web/guest/suchen/-/details/kitas-in-berlin
+https://www.statistik-berlin-brandenburg.de/kinder-und-jugendhilfe
+
+Anzahl Einrichtungen je Bundesland:
+https://www.govdata.de/web/guest/suchen/-/details/einrichtungen-der-kinder-und-jugendhilfe-bundeslanderstichtag-art-der-einrichtung 
+
 ### OSM
 - [Doku allgemein zu Overpass](https://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_QL) (API für Abrufe, REST API ist nur für commits gedacht)
 - [Beispielabfragen](https://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_API_by_Example)
