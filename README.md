@@ -18,7 +18,7 @@ ggfs. erweiter: display/smartphonereparatur, technikmarkt, restaurant, lebensmit
 - freie Standorte / Immobilien, Eigentumsfaktor, Arbeitsmarkt, Google (einzelne Abfrage spezifisch pro Business (Google Places)) -> Robert, Danny  
 
 ## Links
-###Altersheim
+//Altersheim
 https://www.statistik-berlin-brandenburg.de/pflege
 
 nicht Berlin:
@@ -26,7 +26,7 @@ https://www.govdata.de/web/guest/suchen/-/details/betreutes-wohnen-fur-altere-me
 https://www.govdata.de/web/guest/suchen/-/details/wohnen-fur-altere-menschen-in-einrichtungencec11
 
 
-###Kitas
+//Kitas
 https://www.govdata.de/web/guest/suchen/-/details/kitas-in-berlin
 https://www.statistik-berlin-brandenburg.de/kinder-und-jugendhilfe
 
