@@ -28,3 +28,8 @@ s_brw_2023 durch die jeweilige Route ersetzen (kommt in der URL zweimal vor!) di
 
 ![image](https://user-images.githubusercontent.com/42807459/222097268-605166aa-3d36-463d-9c8f-e15a64117d8f.png)
 
+und hier die Abfrage für die Kitas :-)
+```
+https://fbinter.stadt-berlin.de/fb/wfs/data/senstadt/s_kita?service=wfs&version=2.0.0&request=GetFeature&srsName=EPSG%3A25833&TYPENAMES=s_kita
+```
+
