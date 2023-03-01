@@ -45,3 +45,7 @@ und hier die Abfrage für die Kitas :-)
 https://fbinter.stadt-berlin.de/fb/wfs/data/senstadt/s_kita?service=wfs&version=2.0.0&request=GetFeature&srsName=EPSG%3A25833&TYPENAMES=s_kita
 ```
 
+Abfrage Einkommens und Sozialindex:
+```
+https://fbinter.stadt-berlin.de/fb/wfs/data/senstadt/s_gssa_esix2022?service=wfs&version=2.0.0&request=GetFeature&srsName=EPSG%3A25833&TYPENAMES=s_gssa_esix2022
+```
