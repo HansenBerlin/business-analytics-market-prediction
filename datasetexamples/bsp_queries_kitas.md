@@ -49,3 +49,8 @@ Abfrage Einkommens und Sozialindex:
 ```
 https://fbinter.stadt-berlin.de/fb/wfs/data/senstadt/s_gssa_esix2022?service=wfs&version=2.0.0&request=GetFeature&srsName=EPSG%3A25833&TYPENAMES=s_gssa_esix2022
 ```
+
+Einwohnerdichte (da klappt leider WFS nicht):
+```
+https://fbinter.stadt-berlin.de/fb/gisbroker.do;jsessionid=4059C725F411BE3CF35B110EA1BF4E6F?cmd=map_start
+```
