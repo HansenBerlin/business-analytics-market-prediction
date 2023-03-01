@@ -35,3 +35,18 @@ ggfs. erweiter: display/smartphonereparatur, technikmarkt, restaurant, lebensmit
 
 ### weitere Quellen:
 - [Projekte die Open Data nutzen für Berlin](https://www.codefor.de/berlin) jeweils Gitrepo verlinkt wo man mal gucken kann welche APIs oder Datensätze die nutzen
+
+### TODO
+- Nico S. Queries Öffis, Einkommensstruktur, Bildungsstand
+- Query Altenheime OSM, Wahlverhalten, freie Plätze, Geld/Größe vorhandener Träger (Hannes)
+- Mieten / Bodenrichtpreise / freie Immobilien (FIS Broker) -> Robert, Danny
+- Stellenangebote, Stellengesuche (Robert, Danny)
+- Kinder, Geburtenrate, Beschäftigungsquote -> Nico R, Corentin
+
+### Features und Ziel
+- KITA: Location -> Verkehrsanbindung, Anzahl Kinder, Geburtenrate, Quadratmeterpreis, Beschäftigungsquote (wg. Betreuungszeit), Summe vorhandene Plätze, freie Plätze (Über/Unterangebot)
+- KITA: Größe -> Anzahl Kinder, Geburtenrate, Summe vorhandene Plätze, freie Plätze (Über/Unterangebot), (Quadratmeterpreis), Stellenangebot, (Liquidität)
+- KITA: Ausrichtung/Zielgruppe (privat/exklusiv vs öffentlich/Masse) -> Einkommensstruktur, Wahlverhalten, Bildungsstand
+- Altenheim: Location --> Verkehrsanbindung (Öffis, Parkplätze), Grünfläche Verfügbarkeit, Bodenrichtwerte (QM Preise), andere Pflegeeinrichung, Demografie, Pflegestufe unter Heim?,
+- Altenheim: Größe --> Bodenrichtwert, Bedarf (Demografie, Konkurrenz), Vermögen (Verwandschaft Einkommen?), Standort (Ausflugsziele etc.), 
+- Altenheim: Ausrichtung --> öffentlich/ privat, Wahlverhalten
