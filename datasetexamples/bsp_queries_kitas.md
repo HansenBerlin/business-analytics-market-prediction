@@ -32,6 +32,19 @@ out;
 out;
 ```
 
+Abfrage für alle Bahn, U-Bahn, Bus und Tram Haltestellen
+```[out:json];
+(
+  node["railway"="station"]["public_transport"="station"](around:50000,{{geocodeCoords:Berlin}});
+  node["railway"="tram_stop"](around:50000,{{geocodeCoords:Berlin}});
+  node["highway"="bus_stop"](around:50000,{{geocodeCoords:Berlin}});
+);
+out;
+>;
+out;
+```
+
+
 FIS Broker Beispiel für Bodenrichtwerte: 
 ```
 https://fbinter.stadt-berlin.de/fb/wfs/data/senstadt/s_brw_2023?service=wfs&version=2.0.0&request=GetFeature&srsName=EPSG%3A25833&TYPENAMES=s_brw_2023
